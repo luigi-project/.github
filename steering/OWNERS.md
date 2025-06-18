@@ -8,7 +8,7 @@ This page contains all active and inactive TSC members.
 
 | Name             | Organization | Github Handle                                         |
 |------------------|--------------|-------------------------------------------------------|
-| TBD |        |  |
+| Philipp Pracht   | SAP SE       | [hardl](https://github.com/hardl)                     |
 
 ### Chair History
 -
@@ -17,8 +17,8 @@ This page contains all active and inactive TSC members.
 
 | Name                | Organization | Github Handle                                         |
 |---------------------|--------------|-------------------------------------------------------|
-| Philipp Pracht      | SAP SE       | [hardl](https://github.com/hardl)   |
-| Johannes Doberer    | SAP SE       | [JohannesDoberer](https://github.com/JohannesDoberer)                   |
-| Ndricim Rrapi       | SAP SE       | [ndricimrr](https://github.com/ndricimrr) |
+| Philipp Pracht      | SAP SE       | [hardl](https://github.com/hardl)                     |
+| Johannes Doberer    | SAP SE       | [JohannesDoberer](https://github.com/JohannesDoberer) |
+| Ndricim Rrapi       | SAP SE       | [ndricimrr](https://github.com/ndricimrr)             |
 
 ## Emeritus Members

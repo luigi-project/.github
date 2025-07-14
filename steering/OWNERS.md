@@ -19,6 +19,9 @@ This page contains all active and inactive TSC members.
 |---------------------|--------------|-------------------------------------------------------|
 | Philipp Pracht      | SAP SE       | [hardl](https://github.com/hardl)                     |
 | Johannes Doberer    | SAP SE       | [JohannesDoberer](https://github.com/JohannesDoberer) |
-| Ndricim Rrapi       | SAP SE       | [ndricimrr](https://github.com/ndricimrr)             |
+
 
 ## Emeritus Members
+| Name             | Github Handle                                         |
+|------------------|-------------------------------------------------------|
+| Ndricim Rrapi    | [ndricimrr](https://github.com/ndricimrr)             |

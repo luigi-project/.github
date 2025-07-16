@@ -21,6 +21,12 @@ This page contains all active and inactive TSC members.
 | Johannes Doberer    | SAP SE       | [JohannesDoberer](https://github.com/JohannesDoberer) |
 
 
+## Security Officer
+| Name                | Organization | Github Handle                                         |
+|---------------------|--------------|-------------------------------------------------------|
+| Johannes Doberer    | SAP SE       | [JohannesDoberer](https://github.com/JohannesDoberer) |
+
+
 ## Emeritus Members
 | Name             | Github Handle                                         |
 |------------------|-------------------------------------------------------|

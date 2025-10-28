@@ -1,32 +1,32 @@
-# Welcome to SAP on GitHub
+# Welcome to the Luigi Project
 
-<img src="https://www.sap.com/content/dam/application/shared/logos/sap-logo-svg.svg" alt="SAP Logo" width="200" />
+<img src="https://raw.githubusercontent.com/luigi-project/luigi/main/logo.png" alt="Luigi Logo" width="200" />
 
-:wave: Welcome to the official GitHub presence of SAP. SAP is the leading enterprise application and business AI company. We stand at the intersection of business and technology, where our innovations are designed to directly address real business challenges and produce real-world impacts.
+:wave: Welcome to the official GitHub presence of Luigi. We are part of ApeiroRA which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS). 
 
-Our solutions are the backbone for the world’s most complex and demanding processes. SAP’s integrated portfolio unites the elements of modern organizations — from workforce and financials to customers and supply chains — into a unified ecosystem that drives progress.
+Luigi is an open source JavaScript framework for micro frontends.
 
-## :handshake: SAP and Open Source
+## :globe_with_meridians: ApeiroRA?
 
-We believe that open source is a catalyst for innovation, enabling global minds to collaborate, share, and advance technology together.
+ApeiroRA is a reference blueprint for an open, flexible, secure, and compliant next-generation cloud-edge continuum and therefore a key contribution to IPCEI-CIS. At a high level, the projects of ApeiroRA allow users to provider-agnostically fetch, request and consume services, and for service providers to describe, offer and provision their services.
 
-[Read our Open Source Manifesto](https://www.sap.com/documents/2024/05/ec7cc67d-bf7e-0010-bca6-c68f7e60039b.html) to learn what drives SAP's open source philosophy.
+Learn more about ApeiroRA by checking out the official website at [https://apeirora.eu/](https://apeirora.eu/).
 
 ## :busts_in_silhouette: Get Involved
 
-Thank you for considering to contribute to our projects.
-Our [Open Source Community @ SAP](https://pages.community.sap.com/topics/open-source) is a good starting point to find out more about our processes.
+Thank you for considering to contribute to our project.
+To become an excellent contributor, check out our [contribution guidelines](https://github.com/luigi-project/luigi/blob/main/CONTRIBUTING.md) and our [open issues](https://github.com/luigi-project/luigi/issues) (this link requires to be logged in to GitHub).
+
+For general issues and questions please open an issue in our [discussions](https://github.com/luigi-project/luigi/discussions) board.
 
 ## :blue_heart: Code of Conduct
 
-To facilitate a nice, friendly, and open environment for all, check out [our code of conduct](https://github.com/sap/.github/blob/main/CODE_OF_CONDUCT.md).
+To facilitate a nice, friendly, and open environment for all, check out [our code of conduct](https://github.com/luigi-project/luigi/blob/main/CODE_OF_CONDUCT.md).
 
 ## :books: Learn More
 
-- [Open Source @ SAP](https://opensource.sap.com)
-- [Open Source Community @ SAP](https://pages.community.sap.com/topics/open-source)
-- [Podcast series "The Open Source Way"](https://podcast.opensap.info/open-source-way/)
-- [Webinar series "SAP Open Source"](https://webinars.sap.com/ospo-webinar-series/en/home)
-- [Open Source Publications](https://pages.community.sap.com/topics/open-source/publications)
-- [Jobs](https://jobs.sap.com/search/?q=%22open+source%22)
-- [SAP Open Source Report 2024](https://d.dam.sap.com/a/wxgtG2E/SAP%20Open%20Source%202024%20Report.pdf)
+To learn more about Luigi, check out the [official documentation](https://docs.luigi-project.io/)!
+
+<p align="center">
+  <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
+</p>

@@ -19,6 +19,7 @@ This page contains all active and inactive TSC members.
 |---------------------|--------------|-------------------------------------------------------|
 | Philipp Pracht      | SAP SE       | [hardl](https://github.com/hardl)                     |
 | Johannes Doberer    | SAP SE       | [JohannesDoberer](https://github.com/JohannesDoberer) |
+| Peter Kurajsky      | SAP SE       | [pekura](https://github.com/pekura) |
 
 
 ## Security Officer

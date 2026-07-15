@@ -1,86 +1,97 @@
-# SAP Open Source Code of Conduct
+# Code of Conduct
 
-SAP adopts the [Contributor's Covenant 2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
-across our open source projects to ensure a welcoming and open culture for everyone involved.
+Effective: 26 July 2022
 
-## Our Pledge
+This Code of Conduct will apply to any Project of Linux Foundation Europe ("LF Europe") unless a Project has adopted, with approval of LF Europe, a Project-specific code of conduct.
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.
+LF Europe supports and hosts open source and open standards projects (each a "Project") and undertakes such other activities as is consistent with its mission and purpose.
 
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+## Introduction
 
-## Our Standards
+The purposes of Linux Foundation Europe ("LF Europe") are to:
 
-Examples of behavior that contributes to a positive environment for our community include:
+- support the collaborative development, availability and adoption of open source software, hardware and networking and other technologies and the collaborative development, availability and adoption of open protocols and standards (individually and collectively, "Open Technology");
+- host various projects pursuing the development of Open Technology and other technical assets, materials and processes (each such project, which itself may include any number of projects, a "Project");
+- provide enablement and support to Projects to assist their development activities; and
+- undertake such other lawful activity as permitted by law and as consistent with the mission, purpose and tax status of LF Europe.
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+LF Europe hosts communities where participants choose to work together, and in that process experience differences in language, location, nationality, and experience. In such a diverse environment, misunderstandings and disagreements happen, which in most cases can be resolved informally. In rare cases, however, behavior can intimidate, harass, or otherwise disrupt one or more people in the community, which LF Europe will not tolerate.
 
-Examples of unacceptable behavior include:
+A Code of Conduct ("Code") is useful to define accepted and acceptable behaviors and to promote high standards of professional practice. It also provides a benchmark for self-evaluation and acts as a vehicle for better identity of the organization.
 
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+LF Europe is a Belgian private stichting headquartered in Belgium.
 
-## Enforcement Responsibilities
+This Code applies to any participant of any Project, including without limitation developers, participants in meetings, teleconferences, mailing lists, conferences or functions, and contributors. Note that this Code complements rather than replaces legal rights and obligations pertaining to any particular situation. In addition, with the approval of LF Europe, Projects are free to adopt their own code of conduct in place of the Code.
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+## Statement of Intent
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+LF Europe is committed to maintain a positive, professional work environment. This commitment calls for workplaces where participants at all levels behave according to the rules of the following code. A foundational concept of this code is that we all share responsibility for our work environment.
 
-## Scope
+## Code
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+- Treat each other with respect, professionalism, fairness, and sensitivity to our many differences and strengths, including in situations of high pressure and urgency.
+- Never harass or bully anyone verbally, physically or sexually.
+- Never discriminate on the basis of personal characteristics or group membership.
+- Communicate constructively and avoid demeaning or insulting behavior or language.
+- Seek, accept, and offer objective work criticism, and acknowledge properly the contributions of others.
+- Be honest about your own qualifications, and about any circumstances that might lead to conflicts of interest.
+- Respect the privacy of others and the confidentiality of data you access.
+- With respect to cultural differences, be conservative in what you do and liberal in what you accept from others, but not to the point of accepting disrespectful, unprofessional or unfair or unwelcome behavior or advances.
+- Promote the rules of this Code and take action (especially if you are in a leadership position) to bring the discussion back to a more civil level whenever inappropriate behaviors are observed.
+- Stay on topic: Make sure that you are posting to the correct channel and avoid off-topic discussions. Remember when you update an issue or respond to an email you are potentially sending to a large number of people.
+- Step down considerately: participants in every project come and go, and LF Europe is no different. When you leave or disengage from the project, in whole or in part, we ask that you do so in a way that minimizes disruption to the project. This means you should tell people you are leaving and take the proper steps to ensure that others can pick up where you left off.
 
-## Enforcement
+## Glossary
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [ospo@sap.com](mailto:ospo@sap.com) (SAP Open Source Program Office). All complaints will be reviewed and investigated promptly and fairly.
+**Demeaning behavior** is acting in a way that reduces another person's dignity, sense of self-worth or respect within the community.
 
-All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+**Discrimination** is the prejudicial treatment of an individual based on criteria such as: physical appearance, race, ethnic origin, genetic differences, national or social origin, name, religion, gender, sexual orientation, family or health situation, pregnancy, disability, age, education, wealth, domicile, political view, morals, employment, or union activity.
 
-## Enforcement Guidelines
+**Insulting behavior** is treating another person with scorn or disrespect.
 
-Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+**Acknowledgement** is a record of the origin(s) and author(s) of a contribution.
 
-### 1. Correction
+**Harassment** is any conduct, verbal or physical, that has the intent or effect of interfering with an individual, or that creates an intimidating, hostile, or offensive environment.
 
-**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+**Leadership position** includes group Chairs, project maintainers, staff members, and Board members.
 
-**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+**Participant** includes the following persons:
 
-### 2. Warning
+- Developers
+- Representatives of corporate participants
+- Anyone from the Public partaking in the LF Europe work environment (e.g. contribute code, comment on our code or specs, email us, attend our conferences, functions, etc)
 
-**Community Impact**: A violation through a single incident or series of actions.
+**Respect** is the genuine consideration you have for someone (if only because of their status as participant in LF Europe, like yourself), and that you show by treating them in a polite and kind way.
 
-**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+**Sexual harassment** includes visual displays of degrading sexual images, sexually suggestive conduct, offensive remarks of a sexual nature, requests for sexual favors, unwelcome physical contact, and sexual assault.
 
-### 3. Temporary Ban
+**Unwelcome behavior** Hard to define? Some questions to ask yourself are:
 
-**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+- how would I feel if I were in the position of the recipient?
+- would my spouse, parent, child, sibling or friend like to be treated this way?
+- would I like an account of my behavior published in the organization's newsletter?
+- could my behavior offend or hurt other members of the work group?
+- could someone misinterpret my behavior as intentionally harmful or harassing?
+- would I treat my boss or a person I admire at work like that?
 
-**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+Summary: if you are unsure whether something might be welcome or unwelcome, don't do it.
 
-### 4. Permanent Ban
+**Unwelcome sexual advance** includes requests for sexual favors, and other verbal or physical conduct of a sexual nature, where:
 
-**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior, harassment of an individual, or aggression toward or disparagement of classes of individuals.
+- submission to such conduct is made either explicitly or implicitly a term or condition of an individual's employment,
+- submission to or rejection of such conduct by an individual is used as a basis for employment decisions affecting the individual,
+- such conduct has the purpose or effect of unreasonably interfering with an individual's work performance or creating an intimidating hostile or offensive working environment.
 
-**Consequence**: A permanent ban from any sort of public interaction within the community.
+**Workplace Bullying** is a tendency of individuals or groups to use persistent aggressive or unreasonable behavior (e.g. verbal or written abuse, offensive conduct or any interference which undermines or impedes work) against a co-worker or any professional relations.
 
-## Attribution
+**Work Environment** is the set of all available means of collaboration, including, but not limited to messages to mailing lists, private correspondence, Web pages, chat channels, phone and video teleconferences, and any kind of face-to-face meetings or discussions.
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 2.1, available at [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
+## Incident Procedure
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
+To report incidents or to appeal reports of incidents, send email to the legal department of LF Europe (legal@linuxfoundation.eu). Please include any available relevant information, including links to any publicly accessible material relating to the matter. Every effort will be taken to ensure a safe and collegial environment in which to collaborate on matters relating to the Project. In order to protect the community, the Project reserves the right to take appropriate action, potentially including the removal of an individual from any and all participation in the project. The Project will work towards an equitable resolution in the event of a misunderstanding.
 
-For answers to common questions about this code of conduct, see the FAQ at [https://www.contributor-covenant.org/faq][FAQ]. Translations are available at [https://www.contributor-covenant.org/translations][translations].
+## Credits
 
-[homepage]: https://www.contributor-covenant.org
-[v2.1]: https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+This code is based on the W3C's Code of Ethics and Professional Conduct with some additions from the Cloud Foundry Foundation's Code of Conduct and the Hyperledger Project Code of Conduct.
+
+This Code of Conduct is published at https://linuxfoundation.eu/policies/code-of-conduct.

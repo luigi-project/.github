@@ -1,42 +1,89 @@
-<!-- START SAP SECURITY.MD V0.0.1 BLOCK -->
-<!-- Please do not remove the version header, this is needed for automatic updates of the SECURITY.md -->
-# SAP Open Source Security Policy
+# Security Policy
 
-SAP takes the security of our software products and services seriously, which includes all source code repositories managed through our GitHub organizations, including our primary [SAP](https://github.com/SAP), [SAP-docs](https://github.com/SAP-docs) organizations as well as [our other GitHub organizations and projects](https://opensource.sap.com).
+> **Note:** This security policy — and the NeoNephos Security Guidelines it references — are currently a **work in progress** and have not yet been officially released. The document is based on an in-progress template, and both its contents and the process described here may change once the guidelines are finalized.
 
-If you believe you have found a security vulnerability in any SAP-owned repository, please report it to us as described below.
+## Reporting a Vulnerability
 
-## Reporting Security Issues
+If you discover a security vulnerability in **Luigi**, please report it responsibly through one of the channels below. **Do not open a public issue for security vulnerabilities.**
 
-**Please do not report security vulnerabilities through public GitHub issues.**
+### What to Include in Your Report
 
-Instead, please report them via the SAP Trust Center at [https://www.sap.com/about/trust-center/security/incident-management.html](https://www.sap.com/about/trust-center/security/incident-management.html).
+To help us assess and address the vulnerability efficiently, please include:
 
-If you prefer to submit via email, please send an email to [secure@sap.com](mailto:secure@sap.com). If possible, encrypt your message with our PGP key; please download it from the [SAP Trust Center](https://www.sap.com/keyblock).
+- **Affected component(s)** and version(s)
+- **Steps to reproduce** the vulnerability
+- **Impact assessment** — what an attacker could achieve
+- Whether the vulnerability is **already publicly known**
+- Any suggested fix or mitigation (optional)
 
-Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
+### GitHub Private Vulnerability Reporting (Preferred)
 
-  - The repository name or URL
-  - Type of issue (buffer overflow, SQL injection, cross-site scripting, etc.)
-  - Full paths of the source file(s) related to the manifestation of the issue
-  - The location of the affected source code (tag/branch/commit or direct URL)
-  - Any particular configuration required to reproduce the issue
-  - Step-by-step instructions to reproduce the issue
-  - Proof-of-concept or exploit code (if possible)
-  - Impact of the issue, including how an attacker might exploit the issue
+Please use GitHub's built-in private vulnerability reporting:
 
-This information will help us triage your report more quickly.
+1. Navigate to the **Security** tab of this repository.
+2. Click **Report a vulnerability**.
+3. Fill in the details and submit.
 
-## Preferred Languages
+Direct link: [Report a vulnerability](https://github.com/luigi-project/luigi/security/advisories/new)
 
-We prefer all communications to be in English.
+_For more information, see [Privately reporting a security vulnerability](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)._
 
-## Disclosure Guidelines
+### Fallback Contact
 
-We like to ask you to follow the [Disclosure Guidelines for SAP Security Advisories](https://www.sap.com/documents/2022/02/9ccd9ca0-167e-0010-bca6-c68f7e60039b.html).
+If you are unable to use GitHub's private vulnerability reporting, you may report vulnerabilities via email to **luigi-security@lists.neonephos.org**.
 
-## SAP Internal Response Process
+## Security Contacts
 
-As an SAP employee, please check our internal open source security response process ([url.sap/isgc2y](https://url.sap/isgc2y)) for further details on how to handle security incidents.
+The following maintainers are responsible for handling vulnerability reports:
 
-<!-- END SAP SECURITY.MD V0.0.1 BLOCK -->
+| Name | Handle | Role |
+|------|--------|------|
+| Johannes Doberer | [@johannesdoberer](https://github.com/johannesdoberer) | Security Officer |
+
+## Supported Versions
+
+| Version | Supported |
+|---------|-----------|
+| 2.x | Yes |
+| < 2.0 | No |
+
+## Response Process
+
+This project follows the [NeoNephos Security Guidelines](https://github.com/neonephos/guidelines-development/blob/main/security-guidelines/security-guidelines.md) for vulnerability handling. In summary:
+
+- **Initial response**: We will respond to your report within **14 calendar days** of receipt, in line with the [OpenSSF Best Practices](https://www.bestpractices.dev/) requirement.
+- **Embargo**: Vulnerability details will remain confidential for up to **90 days** from report receipt while a fix is developed, consistent with the [Google Project Zero disclosure policy](https://googleprojectzero.blogspot.com/2021/04/policy-and-disclosure-2021-edition.html).
+- **Disclosure**: Once a fix is available (or the embargo expires), we will publish a security advisory with full details.
+
+### Severity Response Targets
+
+| Severity | CVSS Score | Fix Target | Disclosure Target |
+|----------|------------|------------|-------------------|
+| Critical | 9.0 – 10.0 | ≤ 14 days | ≤ 30 days |
+| High | 7.0 – 8.9 | ≤ 30 days | ≤ 60 days |
+| Medium | 4.0 – 6.9 | ≤ 90 days | ≤ 90 days |
+| Low | 0.1 – 3.9 | Best effort | Best effort |
+
+_These are **SHOULD**-level targets as defined by the [NeoNephos Security Guidelines](https://github.com/neonephos/guidelines-development/blob/main/security-guidelines/security-guidelines.md#7-severity-classification-and-response-targets). The 90-day embargo ceiling is a **MUST** aligned with Google Project Zero. All timelines are measured from report receipt (Day 0); fix and disclosure may occur simultaneously._
+
+## Disclosure Policy
+
+We follow [coordinated disclosure](https://en.wikipedia.org/wiki/Coordinated_vulnerability_disclosure). We ask that you:
+
+- Allow us reasonable time to investigate and address the vulnerability before public disclosure.
+- Do not exploit the vulnerability beyond what is necessary to demonstrate the issue.
+- Do not access or modify data belonging to other users.
+
+We are committed to crediting reporters in our security advisories unless you prefer to remain anonymous.
+
+## CRA Stewardship
+
+CRA stewardship: This project is supported under the Linux Foundation CRA stewardship framework, as described at [https://www.linuxfoundation.org/security](https://www.linuxfoundation.org/security). Security vulnerabilities should be reported through the mechanisms described above, which we will coordinate with our CRA steward. For actively exploited vulnerabilities and severe incidents that may require CRA escalation, please use the project's emergency security reporting mechanisms as appropriate.
+
+**CRA Steward Contact**: `steward@linuxfoundation.org`
+
+For more information, see the [NeoNephos Security Guidelines §11](https://github.com/neonephos/guidelines-development/blob/main/security-guidelines/security-guidelines.md#11-eu-cyber-resilience-act-cra-compliance).
+
+## Past Security Advisories
+
+None yet. See [Published Security Advisories](https://github.com/luigi-project/luigi/security/advisories?state=published) once advisories are available.
